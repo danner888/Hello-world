@@ -13,3 +13,5 @@
 第三次进来了。
 我能不能像linus那样写一个操作系统
 哈哈
+
+[![Join us on GitHub discussions](https://img.shields.io/badge/github-discussions-informational)](https://github.com/orgs/Homebrew/discussions/categories/casks)
