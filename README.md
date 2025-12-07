@@ -14,4 +14,4 @@
 我能不能像linus那样写一个操作系统
 哈哈
 
-[![Join us on GitHub discussions](https://google.com)](https://googe.com)
+[![Join us on GitHub discussions](https://google.com)](https://google.com)
