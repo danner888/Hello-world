@@ -15,3 +15,6 @@
 哈哈
 
 [![Join us on GitHub discussions](https://google.com)](https://google.com)
+
+![Xcode 9.0+](https://baidu.com)
+![Swift 4.0+](https://baidu.com)
