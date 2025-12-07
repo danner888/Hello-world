@@ -14,4 +14,4 @@
 我能不能像linus那样写一个操作系统
 哈哈
 
-[![Join us on GitHub discussions](https://img.shields.io/badge/github-discussions-informational)](https://github.com/orgs/Homebrew/discussions/categories/casks)
+[![Join us on GitHub discussions](https://google.com)](https://googe.com)
