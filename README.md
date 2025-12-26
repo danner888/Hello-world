@@ -13,8 +13,3 @@
 第三次进来了。
 我能不能像linus那样写一个操作系统
 哈哈
-
-[![Join us on GitHub discussions](https://google.com)](https://google.com)
-
-![Xcode 9.0+](https://baidu.com)
-![Swift 4.0+](https://baidu.com)
